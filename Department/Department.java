@@ -1,3 +1,5 @@
+import Employee.Employee;
+
 public class Department {
     private String name;
     private Employee[] emp = new Employee[10];
