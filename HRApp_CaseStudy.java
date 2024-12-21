@@ -1,5 +1,5 @@
-import Employee.Employee;
 import Department.Department;
+import Employee.Employee;
 
 public class HRApp_CaseStudy {
 
