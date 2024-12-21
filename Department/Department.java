@@ -1,3 +1,4 @@
+package Department;
 import Employee.Employee;
 
 public class Department {
